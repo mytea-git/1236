@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>Maze/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>119</Column0><Column1>7</Column1><Column2>18</Column2><Column3>1987666403</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>915</ColumnWidth1><ColumnWidth2>244</ColumnWidth2><ColumnWidth3>61</ColumnWidth3></Build>
+      <TerminalIO/>
+      <Debug-Log/>
+    <CodeCoveragePlugin/></Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-1741-12705</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>Maze</ExpandedNode><ExpandedNode>Maze/lib</ExpandedNode><ExpandedNode>Maze/src</ExpandedNode><ExpandedNode>Maze/src/drive_7289.c</ExpandedNode><ExpandedNode>Maze/src/maze.c</ExpandedNode><ExpandedNode>Maze/src/zlg7289.c</ExpandedNode><ExpandedNode>Maze/startup</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-10524-13564</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-21463-25026</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane/><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-025d2ec8><key>iaridepm.enu1</key></Toolbar-025d2ec8></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>281</Bottom><Right>181</Right><x>-2</x><y>-2</y><xscreen>59</xscreen><yscreen>35</yscreen><sizeHorzCX>54579</sizeHorzCX><sizeHorzCY>58333</sizeHorzCY><sizeVertCX>169288</sizeVertCX><sizeVertCY>471667</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>274</Bottom><Right>1083</Right><x>-2</x><y>-2</y><xscreen>1085</xscreen><yscreen>276</yscreen><sizeHorzCX>1003700</sizeHorzCX><sizeHorzCY>460000</sizeHorzCY><sizeVertCX>54579</sizeVertCX><sizeVertCY>58333</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
